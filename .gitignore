@@ -1,0 +1,8 @@
+Gemfile.lock
+doc/
+pkg
+*.gem
+.bundle
+tmp
+vendor/ruby
+test/credentials/personal_credentials.yml
